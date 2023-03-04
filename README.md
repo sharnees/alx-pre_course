@@ -1,1 +1,1 @@
-This is the root mark-down directory
+This is a root mark-down directory
